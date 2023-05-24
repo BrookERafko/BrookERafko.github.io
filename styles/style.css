@@ -8,13 +8,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the top navigation bar */
 .topnav {
   overflow: hidden;
   background-color: #333;
 }
 
-/* Style the topnav links */
 .topnav a {
   float: left;
   display: block;
@@ -34,10 +32,9 @@ body {
 .content {
   background-color: #ddd;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
+  height: 200px; 
 }
 
-/* Style the footer */
 .footer {
   background-color: #f1f1f1;
   padding: 10px;
