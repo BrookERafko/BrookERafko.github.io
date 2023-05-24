@@ -10,13 +10,13 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #815b87;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #9c68ae;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
